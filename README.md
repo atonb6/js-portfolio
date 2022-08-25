@@ -108,3 +108,5 @@ Mientras los loaders transforman ciertos tipos de módulos, los plugins _son uti
 Una vez importado el plugin, podemos desear el personalizarlos a través de opciones.
 
 npm i copy-webpack-plugin -D
+
+--en construcción--
